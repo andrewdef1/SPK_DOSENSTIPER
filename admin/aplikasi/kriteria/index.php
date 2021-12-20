@@ -49,7 +49,7 @@ if(!isset($_SESSION['admin'])){
 			<li><a href="../hmp_kriteria/hmp_kriteria.php"><svg class="glyph stroked table"><use xlink:href="#stroked-open-folder"></use></svg> Himpunan Kriteria</a></li>
 			<li><a href="../nilai/index.php"><svg class="glyph plus sign"><use xlink:href="#stroked-plus-sign"></use></svg> Input Nilai</a></li>
 			<li><a href="../perhitungan/index.php"><svg class="glyph stroked pencil"><use xlink:href="#stroked-calendar"></use></svg> Perhitungan</a></li>
-			<li><a href="../pemenang/pemenang.php"><svg class="glyph stroked email"><use xlink:href="#stroked-email"></use></svg> Email Pemenang</a></li>
+			<!-- <li><a href="../pemenang/pemenang.php"><svg class="glyph stroked email"><use xlink:href="#stroked-email"></use></svg> Email Pemenang</a></li> -->
 			
 			<!-- <li <?php if (isset($_GET['ap']) && $_GET['ap']=="laporan") echo "class='active'";?>><a href="?ap=laporan"><svg class="glyph stroked app-window"><use xlink:href="#stroked-clipboard-with-paper"></use></svg> Laporan</a></li> -->
 			
